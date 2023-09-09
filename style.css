@@ -68,6 +68,11 @@ ul li{
     width: calc(10px + 10em);
 }
 
+.btn:hover{
+    background-color: aqua;
+}
+
+
 input{
     width: calc(400px + 10em);
     border-radius: 20px;
